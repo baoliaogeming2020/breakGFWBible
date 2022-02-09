@@ -7,4 +7,5 @@
 
 ## Windows操作系统  
 1. V2rayN4.29翻墙圣经：  [bible4v2rayN4.29.01.html](bible/bible4v2rayN4.29.01.html)  
-2. IOS翻墙圣经：  [bible4IOSBreakGFW01.html](bible/bible4IOSBreakGFW01.html)  
+## iOS操作系统  
+1. IOS翻墙圣经：  [bible4IOSBreakGFW01.html](bible/bible4IOSBreakGFW01.html)  

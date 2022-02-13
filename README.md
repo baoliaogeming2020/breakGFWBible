@@ -13,4 +13,5 @@
 Github限制上传文件为25M，本文件46M，没办法，只能分卷压缩。  
 下载后，将两个压缩包放到同一个文件夹，点第一卷，可以解压。  
 本来想改成 V2RayX 和 QV2Ray，但这两个软件基本停止更新。  
-1. V2rayU3.2.0翻墙圣经：  bible4v2rayU3.2.0.01.html  [第一卷](bible/bible4v2rayU3.2.0.01.7z.001)  [第二卷](bible/bible4v2rayU3.2.0.01.7z.002)    
+1. V2rayU3.2.0翻墙圣经：  bible4v2rayU3.2.0.01.html  [第一卷](bible/bible4v2rayU3.2.0.01.7z.001)  [第二卷](bible/bible4v2rayU3.2.0.01.7z.002)  
+也可以到[Mega](https://mega.nz/file/PVRQGZgA#5AZ3bXutCDnMmQW41wbC8iq0pbsq79CX0YyADoYf6zc)下载

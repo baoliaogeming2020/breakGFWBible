@@ -5,6 +5,9 @@
 
 ~~点击教程进入，再点击"Raw"按钮，浏览器另存，再用浏览器打开。~~(本方法已经被封锁)  
 
+带你进入爆料革命：  [joinWhistleblowerMovement.html](bible/joinWhistleblowerMovement.html)  
+本文档包括了加入爆料革命的信息化手段讲解，能够选择语言。本人只完整撰写中文版，英文版译的比较乱，本来还可以加入其它语言，但本人水平有限，如有能帮忙的战友，请联系 K.C.#5080
+
 ## Windows操作系统  
 1. V2rayN4.29翻墙圣经：  [bible4v2rayN4.29.01.html](bible/bible4v2rayN4.29.01.html)  
 ## iOS操作系统  

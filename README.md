@@ -15,6 +15,8 @@
 
 ## Windows操作系统  
 1. V2rayN4.29翻墙圣经：  [bible4v2rayN4.29.01.html](bible/bible4v2rayN4.29.01.html)  
+## linux操作系统  
+1. Ubuntu-V2rayA翻墙圣经：  [bible4ubuntu.html](bible/bible4ubuntu.html)  
 ## iOS操作系统  
 1. IOS翻墙圣经：  [bible4IOSBreakGFW01.html](bible/bible4IOSBreakGFW01.html)  
 ## MacOS操作系统  

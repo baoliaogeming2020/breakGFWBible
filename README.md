@@ -9,7 +9,8 @@
 本文档包括了加入爆料革命的信息化手段讲解，能够选择语言。本人只完整撰写中文版，英文版译的比较乱，本来还可以加入其它语言，但本人水平有限，如有能帮忙的战友，请联系 K.C.#5080  
 翻墙简史：  [bible4GFWbriefhistory.html](bible/bible4GFWbriefhistory.html)  
 电脑翻墙：  [bible4v2raya.html](bible/bible4v2raya.html)--适用 Windows MacOS Ubuntu  
-浏览器翻墙：  [bible4FirefoxExt.html](bible/bible4FirefoxExt.html)--适用 Windows MacOS Ubuntu  
+Firefox浏览器翻墙：  [bible4FirefoxExt.html](bible/bible4FirefoxExt.html)--适用 Windows MacOS Ubuntu  
+Chrome浏览器翻墙：  [bible4ChromeExt.html](bible/bible4ChromeExt.html)--适用 Windows MacOS Ubuntu  
 
 ## 如果战争 逃离这里(Escape Frome Here)  
 [efh.html](bible/efh.html)  

@@ -11,7 +11,7 @@
 电脑翻墙：  [bible4v2raya.html](bible/bible4v2raya.html)--适用 Windows MacOS Ubuntu  
 Firefox浏览器翻墙：  [bible4FirefoxExt.html](bible/bible4FirefoxExt.html)--适用 Windows MacOS Ubuntu  
 Chrome浏览器翻墙：  [bible4ChromeExt.html](bible/bible4ChromeExt.html)--适用 Windows MacOS Ubuntu  
-WARP+1.1.1.1：  [bible4ChromeExt.html](bible/bible4ChromeExt.html)--适用 Windows MacOS Ubuntu  
+WARP+1.1.1.1：  [bible4ChromeExt.html](bible/bible4WARPPlus.html)--适用 Windows MacOS Linux Android IOS
 
 ## 如果战争 逃离这里(Escape Frome Here)  
 [efh.html](bible/efh.html)  
